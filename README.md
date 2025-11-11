@@ -1,8 +1,13 @@
 <div id="title" align=center>
 
 
-<span><div>![Modern C++ template][github-sub-title:img]</div><div>[![Anfioo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anfioo&theme=transparent&show_icons=true&locale=cn)](https://github.com/Anfioo)</div></span>
-<span>[![Anfioo's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=Anfioo&theme=transparent&show_icons=true&locale)](https://github.com/Anfioo)</span>
+
+| ![Modern C++ template][github-sub-title:img][![Anfioo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anfioo&theme=transparent&show_icons=true&locale=cn)](https://github.com/Anfioo)|[![Anfioo's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=Anfioo&theme=transparent&show_icons=true&locale)](https://github.com/Anfioo) |
+| ---- | ---- |
+
+
+
+
 
 [![知乎](https://img.shields.io/badge/知乎-Anfioo-yello)](https://www.zhihu.com/people/54-37-39-24)
 [![CSDN](https://img.shields.io/badge/CSDN-Anfioo-yello)](https://blog.csdn.net/m0_73579391)
