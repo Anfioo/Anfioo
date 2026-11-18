@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anfioo</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full-Stack Developer · Independent Open-Source Author</h3>
+
+<p align="center"><em>Always Navigating Freedom, Inspiring Our Oceans.</em></p>
 
 <p align="center">
   <a href="https://www.zhihu.com/people/54-37-39-24"><img src="https://img.shields.io/badge/知乎-Anfioo-yellow" alt="知乎"></a>
@@ -9,6 +11,8 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/坐标-中国·安徽-1f6feb" alt="Location">
+  <img src="https://img.shields.io/badge/时区-UTC+8-1f6feb" alt="Timezone">
   <img src="https://img.shields.io/badge/爱好-编程-red" alt="爱好">
   <img src="https://img.shields.io/badge/性格-开朗-red" alt="性格">
   <img src="https://img.shields.io/badge/讨厌-学习-yellow" alt="讨厌">
@@ -16,11 +20,9 @@
 
 ### About Me
 
-- 🔭 目前在做 **WingEnv**
-- 📝 文章发布在 [CSDN](https://blog.csdn.net/m0_73579391)
-- 💬 可以问我 **全栈开发**
-- 📫 邮箱 **anfioozys@gmail.com**
-- ⚡ 标签 **极客**
+📝 **CSDN**：https://blog.csdn.net/m0_73579391
+
+📫 **邮箱**：[anfioozys@gmail.com](mailto:anfioozys@gmail.com) · [3485977506@qq.com](mailto:3485977506@qq.com)
 
 ### Languages and Tools
 
